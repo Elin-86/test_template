@@ -2,6 +2,9 @@
 h1{
     color: rgb(117, 107, 93);
     margin: auto;
+    text-align: center;
+    border: 1px;
+    padding: 10px;
 }
 nav a{
     color: rgb(76, 60, 51);
