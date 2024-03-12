@@ -1,11 +1,11 @@
 /*Detta är css för first.html */
 body header h1{
-    color: rgb(77, 72, 59);
+    color: rgb(141, 135, 118);
     font-family:Arial, sans-serif;
     text-align: center;
 }
 
-body header nav a{
+nav a{
     color: rgb(129, 112, 91);
     text-align: center;
 }
