@@ -8,6 +8,9 @@ h1{
 }
 nav a{
     color: rgb(76, 60, 51);
+    text-align: center;
+    border: 1px;
+    padding: 10px;
 }
 
 body{
