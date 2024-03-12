@@ -1,21 +1,21 @@
 /*Detta är css för first.html */
-body header h1{
+h1 {
     color: rgb(141, 135, 118);
     font-family:Arial, sans-serif;
     text-align: center;
 }
 
-nav a{
+nav a {
     color: rgb(129, 112, 91);
     text-align: center;
 }
 
-body main section h2{
+h2 {
     font-family:"Lucida Sans", Verdana, sans-serif;
     text-align: center;
 }
 
-body main footer h4{
+footer {
     text-align: center;
     margin-bottom:auto;
     color: rgb(134, 128, 120);
