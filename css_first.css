@@ -1,5 +1,5 @@
 /*Detta är css för first.html */
-#header{
+h1{
     color: rgb(117, 107, 93);
     margin: auto;
     text-align: center;
@@ -8,7 +8,7 @@
     border-color: rgb(126, 109, 89);
 }
 
-#navigera{
+a{
     color: rgb(76, 60, 51);
     margin: auto;
     align-items: center;
@@ -17,11 +17,10 @@
     text-decoration: none;
 }
 
-body{
-    background-color: rgb(197, 192, 179);
+h2{
     text-align: center;
 }
 
-#body{
-    text-align: center
+body{
+    background-color: bisque;
 }
