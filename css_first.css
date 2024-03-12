@@ -1,5 +1,5 @@
 /*Detta är css för first.html */
-h1{
+#header{
     color: rgb(117, 107, 93);
     margin: auto;
     text-align: center;
@@ -7,6 +7,7 @@ h1{
     padding: 10px;
     border-color: rgb(126, 109, 89);
 }
+
 nav a{
     color: rgb(76, 60, 51);
     align-items: center;
