@@ -8,11 +8,12 @@
     border-color: rgb(126, 109, 89);
 }
 
-nav a{
+#navigera{
     color: rgb(76, 60, 51);
     align-items: center;
     border: 1px;
     padding: 10px;
+    text-decoration: none;
 }
 
 body{
