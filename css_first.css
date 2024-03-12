@@ -5,6 +5,7 @@ h1{
     text-align: center;
     border: 1px;
     padding: 10px;
+    border-color: rgb(126, 109, 89);
 }
 nav a{
     color: rgb(76, 60, 51);
