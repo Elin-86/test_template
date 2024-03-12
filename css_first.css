@@ -8,3 +8,8 @@ body main section h2 {
     font-family:"Lucida Sans", Verdana, sans-serif;
     text-align: center;
 }
+
+footer p{
+    text-align: center;
+    color: rgb(134, 128, 120);
+}
