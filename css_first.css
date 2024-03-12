@@ -1,5 +1,5 @@
 /*Detta är css för first.html */
-.header {
+header {
     background-color: rgb(211, 208, 204);
     max-width: fit-content;
 }
@@ -8,8 +8,8 @@ body {
     background-color: rgb(193, 188, 182);
 }
 
-.länkar {
-    color: rgb(129, 112, 91);
+a {
+    color: rgb(67, 61, 53);
     text-align: center;
 }
 
