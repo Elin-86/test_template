@@ -11,5 +11,6 @@ body main section h2{
 
 body main footer p{
     text-align: center;
+    margin-bottom: 90%;
     color: rgb(134, 128, 120);
 }
