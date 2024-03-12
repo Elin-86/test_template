@@ -19,4 +19,9 @@
 
 body{
     background-color: rgb(197, 192, 179);
+    text-align: center;
+}
+
+#body{
+    text-align: center
 }
