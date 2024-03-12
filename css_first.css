@@ -5,6 +5,7 @@ header h1 {
 }
 
 body {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:"Lucida Sans", Verdana, sans-serif;
     text-align: center;
+    margin-right: 50%;
 }
