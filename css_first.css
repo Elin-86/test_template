@@ -1,9 +1,9 @@
 /*Detta är css för first.html */
 header h1 {
     color: rgb(77, 72, 59);
-    font-family:Arial;
+    font-family:Arial, sans-serif;
 }
 
-h2{
-    font-family: Georgia;
+body {
+    font-family: Arial, sans-serif;
 }
