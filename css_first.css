@@ -1,4 +1,7 @@
 /*Detta är css för first.html */
+header{
+    background-color: blanchedalmond;
+}
 h1 {
     color: rgb(141, 135, 118);
     font-family:Arial, sans-serif;
@@ -22,5 +25,5 @@ footer {
 }
 
 body{
-    color: rgb(226, 211, 193);
+    background-color: rgb(164, 162, 160);
 }
