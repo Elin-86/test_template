@@ -1,19 +1,14 @@
 /*Detta är css för first.html */
 h1{
-    color: rgb(117, 107, 93);
+    color: rgb(78, 72, 64);
     margin: auto;
     text-align: center;
-    border: 1px;
-    padding: 10px;
-    border-color: rgb(126, 109, 89);
 }
 
 nav a{
     color: rgb(76, 60, 51);
     margin: auto;
     align-items: center;
-    border: 1px;
-    padding: 10px;
     text-decoration: none;
 }
 
