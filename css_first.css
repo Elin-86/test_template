@@ -5,7 +5,7 @@ body header h1{
     text-align: center;
 }
 
-body nav a{
+body nav ul li a{
     color: rgb(129, 112, 91);
     text-align: center;
 }
