@@ -1,20 +1,21 @@
 /*Detta är css för first.html */
 header {
-    background-color: blanchedalmond;
+    background-color: rgb(211, 208, 204);
+    max-width: fit-content;
 }
 
 body {
-    background-color: rgb(161, 151, 141);
+    background-color: rgb(193, 188, 182);
+}
+
+.länk {
+    color: rgb(129, 112, 91);
+    text-align: center;
 }
 
 h1 {
     color: rgb(141, 135, 118);
     font-family:Arial, sans-serif;
-    text-align: center;
-}
-
-.länk {
-    color: rgb(129, 112, 91);
     text-align: center;
 }
 
