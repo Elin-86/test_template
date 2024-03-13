@@ -1,0 +1,57 @@
+/*Detta är css för om.html */
+.first{
+    color: rgb(76, 60, 51);
+    text-decoration: none;
+    align-content: center;
+    text-align: center;
+    font-family: Arial Narrow;
+}
+
+nav{
+    text-align: center;
+    height: 10px;
+    margin-bottom: 1%;
+}
+
+.kontakt{
+    color: rgb(76, 60, 51);
+    text-decoration: none;
+    align-content: center;
+    text-align: center;
+    font-family: Arial Narrow;
+}
+
+.produkter{
+    color: rgb(76, 60, 51);
+    text-decoration: none;
+    align-content: center;
+    text-align: center;
+    font-family: Arial Narrow;
+}
+
+.om, .produkter, .kontakt, .first{
+    color: rgb(166, 104, 65);
+    height:23px;
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 100px;
+    border: 1px solid rgb(181, 142, 116);
+    border-radius: 10px;
+}
+
+body{
+    margin-top: 20%;
+    background-image: url(https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+}
+
+.ruta{
+    padding: 20px;
+    border: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: rgba(162, 98, 42, 0.158);
+    border-radius: 20px;
+    align-items: center;
+}
